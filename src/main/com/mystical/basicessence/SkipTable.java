@@ -1,6 +1,4 @@
-package com.company;
-
-import java.util.Map;
+package com.mystical.basicessence;
 
 /**
  * @Description:
